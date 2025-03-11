@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="JfaceText:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JfaceText_jar</output-path>
+    <root id="archive" name="JfaceText.jar">
+      <element id="module-output" name="JfaceText" />
+    </root>
+  </artifact>
+</component>
